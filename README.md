@@ -179,6 +179,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.couchbase.com/wp-content/uploads/2023/10/couchbase-favicon.svg" height="14"/> [Couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase)<sup><sup>⭐</sup></sup> - MCP server to interact with the data stored in Couchbase clusters including natural language querying. 
 - <img src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4" height="14"/> [Redis](https://github.com/redis/mcp-redis)<sup><sup>⭐</sup></sup> - A natural language interface designed for agentic applications to efficiently manage and search data in Redis.
 - <img src="https://framerusercontent.com/images/ijlYG00LOcMD6zR1XLMxHbAwZkM.png" height="14" /> [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - Create AI-powered video workflows including automatic editing, content moderation, voice cloning, highlight generation, and searchable video moments—all accessible via simple APIs and intuitive chat-based interfaces.
+- <img src="https://cdn.simpleicons.org/postgresql/5865F2" height="14"/> [SchemaBrain](https://github.com/Arun-kc/schemabrain) - Read-only PostgreSQL MCP server. The agent never writes SQL — twelve read-only tools compile it from operator-controlled definitions, PII and secret categories are refused before the query runs, and every call lands in a tamper-evident SHA-256 audit chain. Apache-2.0.
 
 <br />
 
